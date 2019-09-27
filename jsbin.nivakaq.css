@@ -1,0 +1,16 @@
+body{background-color:lightgrey;}
+
+p{font-size:30px;}
+
+li{font-size:30px;}
+
+h2{border: 2px solid black;
+  color:white;
+  font-size:15px;
+  text-decoration:underline yellow;
+  background-color: black;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  }
